@@ -1,5 +1,3 @@
-import java.nio.channels.Pipe.SourceChannel;
-
 public class RemoveCycle {
     public static class Node{
         int data;
